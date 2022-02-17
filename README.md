@@ -2,7 +2,6 @@
 
 I'm a data guy; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. Hit me up if you have any questions that I might be able to answer.
 
-<!-- https://shields.io/ -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/danthelion/">
   <img src="https://img.shields.io/badge/linkedin-Daniel%20Palma-blue?style=flat-square&logo=linkedin">
@@ -19,7 +18,8 @@ I'm a data guy; warehouses, pipelines, BI, batch & stream processing are some of
 - 📝 [CV/Resume](https://github.com/danthelion/resume/blob/master/out/resume.pdf "CV/Resume")
 
 <br>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthelion&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,TeX)
 ![danthelions's github stats](https://github-readme-stats.vercel.app/api/?username=danthelion&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
+
 <br>
