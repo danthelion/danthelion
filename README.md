@@ -1,3 +1,25 @@
-[![danthelion's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danthelion/)
+# Hey, I'm Daniel 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthelion&theme=radical&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
+I'm a data guy; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. Hit me up if you have any questions that I might be able to answer.
+
+<!-- https://shields.io/ -->
+<p align="center"><br/>
+ <a href="https://www.linkedin.com/in/danthelion/">
+  <img src="https://img.shields.io/badge/linkedin-Daniel%20Palma-blue?style=flat-square&logo=linkedin">
+ </a>
+ <a href="mailto:danivgy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-danivgy%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+ </a>
+</p>
+
+- 👨‍💼 Senior Data Engineer at [Aliz](https://aliz.ai/ "Aliz Website")
+- 💻 Interested in data warehouses, stream processing, cloud-native architectures, r"[a-zA-Z]\*Ops" culture
+- 📫 How to reach me: [Email](mailto:danivgy@gmail.com "danivgy@gmail.com") || [LinkedIn](https://www.linkedin.com/in/danthelion/ "Daniel Palma") || [Twitter](https://twitter.com/verazelet "Daniel Palma")
+- 🗺️ Located in Europe
+- 📝 [CV/Resume](https://github.com/danthelion/resume/blob/master/out/resume.pdf "CV/Resume")
+
+<br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthelion&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,TeX)
+![danthelions's github stats](https://github-readme-stats.vercel.app/api/?username=danthelion&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
+<br>
