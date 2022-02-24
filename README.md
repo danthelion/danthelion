@@ -12,7 +12,7 @@ I'm a data guy; warehouses, pipelines, BI, batch & stream processing are some of
 </p>
 
 - 👨‍💼 Senior Data Engineer at [Aliz](https://aliz.ai/ "Aliz Website")
-- [Blog](https://medium.com/@danthelion "Personal blog")
+- 💬 [Blog](https://medium.com/@danthelion "Personal blog")
 - 💻 Interested in data warehouses, stream processing, cloud-native architectures, r"[a-zA-Z]\*Ops" culture
 - 📫 How to reach me: [Email](mailto:danivgy@gmail.com "danivgy@gmail.com") || [LinkedIn](https://www.linkedin.com/in/danthelion/ "Daniel Palma") || [Twitter](https://twitter.com/verazelet "Daniel Palma")
 - 🗺️ Located in Europe
