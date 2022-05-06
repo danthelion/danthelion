@@ -1,4 +1,4 @@
-# Hey, I'm Daniel 👋
+# Hey, I'm Dani 👋
 
 I'm a data guy; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. Hit me up if you have any questions that I might be able to answer.
 
