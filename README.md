@@ -1,6 +1,6 @@
-# Hey, I'm Dani 👋
+# Hey, I'm Dani 🌴
 
-I'm a data guy; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. Hit me up if you have any questions that I might be able to answer.
+I'm a data person; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. Hit me up if you have any questions that I might be able to answer. Check out my website, [Areca Data](https:/www.arecadata.com)!
 
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/danthelion/">
@@ -12,7 +12,7 @@ I'm a data guy; warehouses, pipelines, BI, batch & stream processing are some of
 </p>
 
 - 👨‍💼 Senior Data Engineer at [Brooklyn Data](https://brooklyndata.co/ "BDC Website")
-- 💬 [Blog](https://medium.com/@danthelion "Personal blog")
+- 💬 [Blog](https:/www.arecadata.com "Personal blog")
 - 💻 Interested in data warehouses, stream processing, cloud-native architectures, r"[a-zA-Z]\*Ops" culture
 - 📫 How to reach me: [Email](mailto:danivgy@gmail.com "danivgy@gmail.com") || [LinkedIn](https://www.linkedin.com/in/danthelion/ "Daniel Palma") || [Twitter](https://twitter.com/verazelet "Daniel Palma")
 - 🗺️ Located in Europe
