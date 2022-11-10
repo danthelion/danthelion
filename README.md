@@ -2,7 +2,7 @@
 
 I'm a data person; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. Hit me up if you have any questions that I might be able to answer. 
 
-Check out my website, [Areca Data](https:/www.arecadata.com "Areca Data website")!
+Check out my website, [Areca Data](https:/www.arecadata.com/ "Areca Data website")!
 
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/danthelion/">
@@ -14,7 +14,7 @@ Check out my website, [Areca Data](https:/www.arecadata.com "Areca Data website"
 </p>
 
 - 👨‍💼 Senior Data Engineer at [Brooklyn Data](https://brooklyndata.co/ "BDC Website")
-- 💬 [Blog](https:/www.arecadata.com "Areca Data website")
+- 💬 [Blog](https:/www.arecadata.com/ "Areca Data website")
 - 💻 Interested in data warehouses, stream processing, cloud-native architectures, r"[a-zA-Z]\*Ops" culture
 - 📫 How to reach me: [Email](mailto:danivgy@gmail.com "danivgy@gmail.com") || [LinkedIn](https://www.linkedin.com/in/danthelion/ "Daniel Palma") || [Twitter](https://twitter.com/verazelet "Daniel Palma")
 - 🗺️ Located in Europe
