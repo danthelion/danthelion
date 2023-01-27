@@ -1,6 +1,6 @@
 # Hey, I'm Dani 🌴
 
-I'm a data person; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. Hit me up if you have any questions that I might be able to answer. 
+I'm a data person; warehouses, pipelines, BI, batch & stream processing are some of my favourite words to hear. I like building stuff.
 
 Check out my website, [Areca Data](https://www.arecadata.com/ "Areca Data website")!
 
@@ -13,16 +13,8 @@ Check out my website, [Areca Data](https://www.arecadata.com/ "Areca Data websit
  </a>
 </p>
 
-- 👨‍💼 Senior Data Engineer at [Brooklyn Data](https://brooklyndata.co/ "BDC Website")
+- 👨‍💼 Data Engineer at [Brooklyn Data](https://brooklyndata.co/ "BDC Website")
 - 💬 [Blog](https://www.arecadata.com/ "Areca Data website")
 - 💻 Interested in data warehouses, stream processing, cloud-native architectures, r"[a-zA-Z]\*Ops" culture
-- 📫 How to reach me: [Email](mailto:danivgy@gmail.com "danivgy@gmail.com") || [LinkedIn](https://www.linkedin.com/in/danthelion/ "Daniel Palma") || [Twitter](https://twitter.com/verazelet "Daniel Palma")
-- 🗺️ Located in Europe
+- 📫 Reach me: [Email](mailto:danivgy@gmail.com "danivgy@gmail.com") || [LinkedIn](https://www.linkedin.com/in/danthelion/ "Daniel Palma") || [Twitter](https://twitter.com/verazelet "Daniel Palma")
 - 📝 [CV/Resume](https://github.com/danthelion/resume/blob/master/out/resume.pdf "CV/Resume")
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthelion&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,TeX)
-![danthelions's github stats](https://github-readme-stats.vercel.app/api/?username=danthelion&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24)
-
-<br>
