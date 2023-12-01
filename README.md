@@ -18,3 +18,5 @@ Check out my website, [Areca Data](https://www.arecadata.com/ "Areca Data websit
 - 💻 Interested in data warehouses, stream processing, cloud-native architectures, r"[a-zA-Z]\*Ops" culture
 - 📫 Reach me: [Email](mailto:danivgy@gmail.com "danivgy@gmail.com") || [LinkedIn](https://www.linkedin.com/in/danthelion/ "Daniel Palma") || [Twitter](https://twitter.com/verazelet "Daniel Palma")
 - 📝 [CV/Resume](https://github.com/danthelion/resume/blob/master/out/resume.pdf "CV/Resume")
+
+![Google Analytics](https://www.google-analytics.com/collect?v=1&cid=1&t=pageview&ec=repo&ea=open&dp=mjpitz%2Fgo-gracefully&dt=danthelion%2Fgh-profile&tid=VJBQVZJRH9)
